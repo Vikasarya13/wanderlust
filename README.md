@@ -25,41 +25,39 @@ Wanderlust is a travel/property listing web application where users can register
 - 📱 **Responsive UI** with Bootstrap 5 and EJS Templates
 
 ---
+## 🛠️ Tech Stack
 
+- **Frontend**: HTML, CSS, Bootstrap 5, EJS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB (Mongoose)
+- **Authentication**: Passport.js (Local Strategy)
+- **Image Storage**: Cloudinary
+- **Validation**: Joi
+- **Templating Engine**: EJS
+
+---
 ## 🎥 Demo
 
 🎬 *[Add your demo video link or GIF here]*
 
 ---
 
-## 🗂️ Contents
+## 📁 Installation & Setup
 
-- [`Backend Setup`](#🛠️-backend-setup)
-- [`Folder Structure`](#📁-folder-structure)
-- [`Usage`](#🚀-usage)
-- [`Tech Stack`](#🧰-tech-stack)
-- [`Future Improvements`](#🧠-future-improvements)
-
----
-
-## 🛠️ Backend Setup
+1. **Clone the repository**
 
 ```bash
-# Clone the repository
 git clone https://github.com/Vikasarya13/wanderlust.git
 cd wanderlust
-
-# Install server dependencies
 npm install
-
-# Create a .env file in the root directory and add the following:
 CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_KEY=your_api_key
-CLOUDINARY_SECRET=your_api_secret
+CLOUDINARY_KEY=your_cloudinary_api_key
+CLOUDINARY_SECRET=your_cloudinary_secret
 MAPBOX_TOKEN=your_mapbox_token
-DB_URL=your_mongo_connection_string
+DB_URL=mongodb://localhost:27017/wanderlust
 SECRET=your_session_secret
-
-# Run the development server
 npm start
+Open http://localhost:3000 in your browser to use
+
+
 
