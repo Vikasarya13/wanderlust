@@ -59,5 +59,11 @@ SECRET=your_session_secret
 npm start
 Open http://localhost:3000 in your browser to use
 
+## 👨‍💻 Developer
 
+**Vikas Arya**  
+📧 Email: [vikasarya7068@gmail.com](mailto:vikasarya7068@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/vikas-arya-263a99269](https://linkedin.com/in/vikas-arya-263a99269)
+
+---
 
