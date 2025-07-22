@@ -60,7 +60,10 @@ npm start
 Open http://localhost:3000 in your browser to use
 
 ---
+## 🎥 Demo
+
 ## 👨‍💻 Developer
+## 📁 Installation & Setup
 
 **Vikas Arya**  
 📧 Email: [vikasarya7068@gmail.com](mailto:vikasarya7068@gmail.com)  
