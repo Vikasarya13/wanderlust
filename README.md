@@ -46,7 +46,7 @@ Wanderlust is a travel/property listing web application where users can register
 
 1. **Clone the repository**
 
-```bash
+##```bash
 git clone https://github.com/Vikasarya13/wanderlust.git
 cd wanderlust
 npm install
@@ -60,10 +60,8 @@ npm start
 Open http://localhost:3000 in your browser to use
 
 ---
-## 🎥 Demo
 
 ## 👨‍💻 Developer
-## 📁 Installation & Setup
 
 **Vikas Arya**  
 📧 Email: [vikasarya7068@gmail.com](mailto:vikasarya7068@gmail.com)  
