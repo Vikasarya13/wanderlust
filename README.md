@@ -59,6 +59,7 @@ SECRET=your_session_secret
 npm start
 Open http://localhost:3000 in your browser to use
 
+---
 ## 👨‍💻 Developer
 
 **Vikas Arya**  
